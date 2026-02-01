@@ -14,6 +14,12 @@ builder.Services.AddDbContext<PlatformDbContext>(options =>
 
 var app = builder.Build();
 
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<Platform.Infrastructure.Persistence.PlatformDbContext>();
+    await Platform.Infrastructure.Security.SecuritySeeder.SeedAsync(db);
+}
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

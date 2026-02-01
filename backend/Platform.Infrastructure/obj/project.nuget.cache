@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "a9f9DHq4FTc=",
+  "dgSpecHash": "qOONE+YvuKY=",
   "success": true,
   "projectFilePath": "D:\\GitHub\\plataforma\\backend\\Platform.Infrastructure\\Platform.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Willians\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Willians\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Willians\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
     "C:\\Users\\Willians\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.11.0\\microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",
