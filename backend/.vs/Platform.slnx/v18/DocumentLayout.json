@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\plataforma\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42D41CF4-EFFE-4BC7-8427-0B12EE65B596}|Platform.Api\\Platform.Api.csproj|d:\\github\\plataforma\\backend\\platform.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D41CF4-EFFE-4BC7-8427-0B12EE65B596}|Platform.Api\\Platform.Api.csproj|solutionrelative:platform.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D41CF4-EFFE-4BC7-8427-0B12EE65B596}|Platform.Api\\Platform.Api.csproj|d:\\github\\plataforma\\backend\\platform.api\\platform.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42D41CF4-EFFE-4BC7-8427-0B12EE65B596}|Platform.Api\\Platform.Api.csproj|solutionrelative:platform.api\\platform.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D41CF4-EFFE-4BC7-8427-0B12EE65B596}|Platform.Api\\Platform.Api.csproj|d:\\github\\plataforma\\backend\\platform.api\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D41CF4-EFFE-4BC7-8427-0B12EE65B596}|Platform.Api\\Platform.Api.csproj|solutionrelative:platform.api\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D41CF4-EFFE-4BC7-8427-0B12EE65B596}|Platform.Api\\Platform.Api.csproj|d:\\github\\plataforma\\backend\\platform.api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D41CF4-EFFE-4BC7-8427-0B12EE65B596}|Platform.Api\\Platform.Api.csproj|solutionrelative:platform.api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D41CF4-EFFE-4BC7-8427-0B12EE65B596}|Platform.Api\\Platform.Api.csproj|d:\\github\\plataforma\\backend\\platform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D41CF4-EFFE-4BC7-8427-0B12EE65B596}|Platform.Api\\Platform.Api.csproj|solutionrelative:platform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774FA7C3-5AEA-41E4-1B6C-A9AA209A3137}|Platform.Infrastructure\\Platform.Infrastructure.csproj|d:\\github\\plataforma\\backend\\platform.infrastructure\\security\\securityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774FA7C3-5AEA-41E4-1B6C-A9AA209A3137}|Platform.Infrastructure\\Platform.Infrastructure.csproj|solutionrelative:platform.infrastructure\\security\\securityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774FA7C3-5AEA-41E4-1B6C-A9AA209A3137}|Platform.Infrastructure\\Platform.Infrastructure.csproj|d:\\github\\plataforma\\backend\\platform.infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774FA7C3-5AEA-41E4-1B6C-A9AA209A3137}|Platform.Infrastructure\\Platform.Infrastructure.csproj|solutionrelative:platform.infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Platform.Api",
+              "DocumentMoniker": "D:\\GitHub\\plataforma\\backend\\Platform.Api\\Platform.Api.csproj",
+              "RelativeDocumentMoniker": "Platform.Api\\Platform.Api.csproj",
+              "ToolTip": "D:\\GitHub\\plataforma\\backend\\Platform.Api\\Platform.Api.csproj*",
+              "RelativeToolTip": "Platform.Api\\Platform.Api.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-01T06:30:40.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\GitHub\\plataforma\\backend\\Platform.Api\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Platform.Api\\Models\\LoginResponse.cs",
+              "ToolTip": "D:\\GitHub\\plataforma\\backend\\Platform.Api\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "Platform.Api\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T06:16:47.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SecuritySeeder.cs",
+              "DocumentMoniker": "D:\\GitHub\\plataforma\\backend\\Platform.Infrastructure\\Security\\SecuritySeeder.cs",
+              "RelativeDocumentMoniker": "Platform.Infrastructure\\Security\\SecuritySeeder.cs",
+              "ToolTip": "D:\\GitHub\\plataforma\\backend\\Platform.Infrastructure\\Security\\SecuritySeeder.cs",
+              "RelativeToolTip": "Platform.Infrastructure\\Security\\SecuritySeeder.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T05:05:15.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\plataforma\\backend\\Platform.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Platform.Api\\Program.cs",
+              "ToolTip": "D:\\GitHub\\plataforma\\backend\\Platform.Api\\Program.cs",
+              "RelativeToolTip": "Platform.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T05:28:00.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\GitHub\\plataforma\\backend\\Platform.Api\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Platform.Api\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\GitHub\\plataforma\\backend\\Platform.Api\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Platform.Api\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T06:15:32.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\GitHub\\plataforma\\backend\\Platform.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Platform.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\GitHub\\plataforma\\backend\\Platform.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Platform.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T05:30:07.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\GitHub\\plataforma\\backend\\Platform.Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Platform.Infrastructure\\Security\\PasswordHasher.cs",
+              "ToolTip": "D:\\GitHub\\plataforma\\backend\\Platform.Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "Platform.Infrastructure\\Security\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T05:24:17.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
